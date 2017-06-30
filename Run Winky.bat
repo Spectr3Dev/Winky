@@ -1,0 +1,2 @@
+node Winky.js
+pause
